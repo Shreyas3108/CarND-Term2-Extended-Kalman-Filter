@@ -18,7 +18,7 @@ This project involves the Term 2 Simulator which can be downloaded [here](https:
 - `data`  
 
 ## Result
-![input 1 results](Screenshot(58).png) 
+![input 1 results](https://github.com/Shreyas3108/CarND-Term2-Extended-Kalman-Filter/blob/master/Screenshot%20(58).png) 
 X = 0.09 
 Y = 0.08 
 VX = 0.45 
